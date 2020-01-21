@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -264,7 +264,27 @@ namespace ToDoNotesAndCalculatoR
         private void print_Click(object sender, RoutedEventArgs e)
         {
             for (int x = 0; x < i; x++)
-                listBox1.Items.Add(note[x]);
+            {
+                if (note[x] != "")
+                {
+                    listBox1.Items.Add(note[x]);
+                }
+            }
+
+        }
+
+        private void listBox1_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void clear_Click(object sender, RoutedEventArgs e)
+        {
+            for (int x = 0; x < i; x++)
+            {
+                listBox1.Items.Remove(note[x]);
+                note[x] = "";
+            }
 
         }
     }
