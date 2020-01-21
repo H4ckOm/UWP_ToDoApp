@@ -29,11 +29,12 @@
         <Button Click="btn0_Click" x:Name="btn0" Content="0" Margin="512,732,0,0" VerticalAlignment="Top" Width="77" Height="85"/>
         <Button Click="btnClear_Click" x:Name="btnClear" Content="C" Margin="613,732,0,0" VerticalAlignment="Top" Width="77" Height="85"/>
         <Button Click="btnPlus_Click" x:Name="btnPlus" Content="+" Margin="712,732,0,0" VerticalAlignment="Top" Width="77" Height="85"/>
-        <TextBox x:Name="notesin" HorizontalAlignment="Left" Margin="930,282,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="379" Height="179" FontSize="50" FontFamily="Bookman Old Style"/>
-        <Button x:Name="save" Content="Save" Margin="973,515,0,0" VerticalAlignment="Top" Height="85" Width="130" Click="save_Click"/>
-        <TextBlock x:Name="notes" HorizontalAlignment="Left" Margin="1032,185,0,0" Text="Notes" TextWrapping="Wrap" VerticalAlignment="Top" Height="63" Width="246" FontSize="50" FontFamily="Comic Sans MS"/>
-        <Button x:Name="print" Content="Print" Margin="1137,515,0,0" VerticalAlignment="Top" Height="85" Width="130" Click="print_Click"/>
-        <ListBox x:Name="listBox1" Margin="930,635,238,146" Height="179" FontSize="25" FontFamily="Bookman Old Style" Background="#FF040000"/>
-        <TextBlock HorizontalAlignment="Left" Margin="1327,941,0,0" TextWrapping="Wrap" Text="Made By Omkar" VerticalAlignment="Top" Height="20" Width="107" FontSize="15" FontFamily="Ink Free"/>
+        <TextBox x:Name="notesin" HorizontalAlignment="Left" Margin="930,282,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="696" Height="179" FontSize="50" FontFamily="Bookman Old Style"/>
+        <Button x:Name="save" Content="Save" Margin="1018,515,0,0" VerticalAlignment="Top" Height="85" Width="130" Click="save_Click"/>
+        <TextBlock x:Name="notes" HorizontalAlignment="Left" Margin="1213,185,0,0" Text="Notes" TextWrapping="Wrap" VerticalAlignment="Top" Height="63" Width="246" FontSize="50" FontFamily="Comic Sans MS"/>
+        <Button x:Name="print" Content="Print" Margin="1224,515,0,0" VerticalAlignment="Top" Height="85" Width="130" Click="print_Click"/>
+        <ListBox x:Name="listBox1" Margin="930,655,233,166" Height="179" FontSize="25" FontFamily="Bookman Old Style" />
+        <TextBlock HorizontalAlignment="Left" Margin="1423,933,0,0" TextWrapping="Wrap" Text="Made By Omkar" VerticalAlignment="Top" Height="20" Width="107" FontSize="15" FontFamily="Ink Free"/>
+        <Button x:Name="clear" Content="Clear" Margin="1423,515,0,0" VerticalAlignment="Top" Height="85" Width="130" Click="clear_Click"/>
     </Grid>
 </Page>
