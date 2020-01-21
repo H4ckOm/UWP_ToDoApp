@@ -5,3 +5,6 @@
 **Features**
 - [ ] Can Save Some Lines.
 - [ ] Calculator.
+
+
+**Use Windows Dark Theme For Better View**
