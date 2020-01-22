@@ -8158,11 +8158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omkar\\Source\\Repos\\UWP_ToDoApp\\ToDoNotesAndCalculatoR\\ToDoNotesAndCalculatoR.csproj",
+      "projectUniqueName": "C:\\Users\\Omkar\\source\\repos\\ToDoNotesAndCalculatoR\\ToDoNotesAndCalculatoR\\ToDoNotesAndCalculatoR.csproj",
       "projectName": "ToDoNotesAndCalculatoR",
-      "projectPath": "C:\\Users\\Omkar\\Source\\Repos\\UWP_ToDoApp\\ToDoNotesAndCalculatoR\\ToDoNotesAndCalculatoR.csproj",
+      "projectPath": "C:\\Users\\Omkar\\source\\repos\\ToDoNotesAndCalculatoR\\ToDoNotesAndCalculatoR\\ToDoNotesAndCalculatoR.csproj",
       "packagesPath": "C:\\Users\\Omkar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omkar\\Source\\Repos\\UWP_ToDoApp\\ToDoNotesAndCalculatoR\\obj\\",
+      "outputPath": "C:\\Users\\Omkar\\source\\repos\\ToDoNotesAndCalculatoR\\ToDoNotesAndCalculatoR\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

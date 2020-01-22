@@ -10,22 +10,22 @@
     <PackageArchitecture>arm</PackageArchitecture>
     <PackageIdentityName>82e926a7-ac86-4f3a-9bb8-d6c8e4c023d2</PackageIdentityName>
     <PackageIdentityPublisher>CN=Omkar</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\obj\ARM\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\obj\ARM\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\ToDoNotesAndCalculatoR.exe">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\ToDoNotesAndCalculatoR.exe">
       <PackagePath>entrypoint\ToDoNotesAndCalculatoR.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-arm\lib\uap10.0.15138\System.Runtime.dll">
@@ -34,52 +34,52 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\ToDoNotesAndCalculatoR.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\ToDoNotesAndCalculatoR.xr.xml">
       <PackagePath>ToDoNotesAndCalculatoR.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Omkar\Source\Repos\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\Core\ToDoNotesAndCalculatoR.exe">
+    <AppxPackagedFile Include="C:\Users\Omkar\Desktop\repo_new\UWP_ToDoApp\ToDoNotesAndCalculatoR\bin\ARM\Debug\Core\ToDoNotesAndCalculatoR.exe">
       <PackagePath>ToDoNotesAndCalculatoR.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
